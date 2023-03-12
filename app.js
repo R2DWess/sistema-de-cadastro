@@ -5,4 +5,3 @@ console.log("A Joh fez esse commit sem voce ver!")
 console.log("Enviando para o GitHub")
 
 console.log("A Joelma fez esse commit sem voce ver!")
-console.log("criando pagina de contato")
